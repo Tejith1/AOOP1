@@ -37,7 +37,6 @@ class Movie implements Comparable<Movie> {
     }
 }
 
-// Main class to test the sorting
 public class MovieSorter {
     public static void main(String[] args) {
         List<Movie> movies = new ArrayList<>();
